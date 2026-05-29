@@ -22,4 +22,6 @@ My goal is to combine creativity, coding, and electronics to build intelligent s
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/karshi02" </a></p>
+<p align="left">
+  <a href="https://www.github.com/karshi02">GitHub</a>
+</p>
